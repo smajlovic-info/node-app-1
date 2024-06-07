@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "node-app-1"
+  description: "testign pr"
+  annotations:
+    github.com/project-slug: smajlovic-info/node-app-1
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: 
