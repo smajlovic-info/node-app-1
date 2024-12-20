@@ -15,6 +15,7 @@ metadata:
     backstage.io/kubernetes-id: node-app-1
     backstage.io/techdocs-ref: dir:.
     # azure-container-registry/names: acrcmshub,acrcmsprod001,acrtesting
+    azure-container-registry/names: acrtesting
     azure-container-registry/repository-name: cms/cms-governance
 spec:
   type: service
