@@ -20,5 +20,5 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: group:default/guests
+  owner: group:default/cst-devops
   system: cms
