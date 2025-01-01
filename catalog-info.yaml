@@ -20,5 +20,5 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: group:default/devops
+  owner: group:default/guests
   system: cms
